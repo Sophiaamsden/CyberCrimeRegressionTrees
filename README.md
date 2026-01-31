@@ -73,4 +73,3 @@ Before modeling, the following steps are performed:
 2. Make sure the following Python packages are installed:
    ```bash
    pip install pandas numpy scikit-learn statsmodels matplotlib
-arn statsmodels matplotlib
